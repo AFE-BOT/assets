@@ -1,1 +1,14 @@
-
+{
+    "name": "AFE)",
+    "type": "BEP20",
+    "symbol": "AFE",
+    "decimals": 18,
+    "description": "Trade With Safe And Trust",
+    "website": "https://www.afebot.com",
+    "explorer": "https://bscscan.com/token/0x84F2Db8CdFf9CE277878253873fA785D5c98f9ec",
+    "status": "active",
+    "id": "0x84F2Db8CdFf9CE277878253873fA785D5c98f9ec",
+    "tags": [
+        "wrapped"
+    ]
+}
